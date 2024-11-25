@@ -1,7 +1,0 @@
-baseurl = "/"
-title = "Hugo DPSG"
-languageCode = "de"
-DefaultContentLanguage = "de"
-paginate = "10" # Number of posts per page
-theme = "hugo-dpsg"
-
